@@ -1,0 +1,835 @@
+PHYSICS:-
+Easy:
+1. What is the definition of power?
+	a. Power is the product of force and velocity.
+	b. Power is the product of force and work done.
+	c. Power is the rate of change of velocity.
+	d. Power is the rate of change at which work is done.
+
+2. Which quantity could have the units of NmV^-1?
+	a. Acceleration
+	b. Charge
+	c. Current
+	d. Resistance
+
+3.Which expression is equal to the stress on a wire?
+	a. Extension/original length
+	b. Force/cross-sectional area
+	c. Force/extension
+	d. Young's modulus/original length
+
+4. Which statement is correct for longitudinal waves but not correct for transverse waves?
+	a. They can form stationary waves.
+	b. They can only travel through a medium.
+	c. They can transfer energy in the direction of travel.
+	d. They consists of peaks and troughs.
+
+5. What is meant by the mass of an object?
+	a. The property of the object that resists a change in motion.
+	b. The pull of the Earth on the object.
+	c. The total number of atoms in the object.
+	d. The weight of the object.
+
+6. A stone is falling vertically through air at a constant (terminal. velocity). Which energy change is occuring?
+	a. Gravitational potential energy to thermal energy.
+	b. Gravitational potential energy to kinetic energy of the stone.
+	c. Kinetic energy to Gravitational potential energy of the stone.
+	d. Kinetic energy of the stone to thermal energy.
+
+7. Which list shows electromagnetic waves in order of decreasing frequency?
+	a. gamma rays > infrared > ultraviolet > radio waves
+	b. gamma rays > ultraviolet > infrared > radio waves
+	c. radio waves > infrared > ultraviolet > gamma rays
+	d. radio waves > ultraviolet > infrared > gamma rays
+
+8. Which physical quantity could have units of Ns^2m^-1?
+	a. Acceleration
+	b. Force
+	c. Mass
+	d. Momentum
+
+9. Two lasers emit light in a vacuum. One laser emits red light and the other emits green light. Which property of the light from the two lasers must be different?
+	a. Amplitude
+	b. Frequency
+	c. Intensity
+	d. Speed
+
+10. One light year is equal to
+	a. 9.5x10^15 m
+	b. 9.5x10^15 sec
+	c. 9.5x10^15 Km
+	d. 9.5x10^15 cm
+
+11. A body is moving with uniform velocity. Its:
+	a. Speed changes
+	b. Acceleration changes
+	c. The direction of motion changes
+	d. Displacement from origin changes
+
+12. Weber is the unit of: 
+	a. Magnetic field intensity
+	b. Magnetic induction
+	c. Magnetic flux
+	d. Self-inductance
+
+13. When the amplitude of a wave becomes double its energy become:
+	a. Double
+	b. Four times
+	c. One half
+	d. None time
+
+14. The velocity of sound is greatest in:
+	a. Water
+	b. Air
+	c. Copper
+	d. Ammonia
+
+15. During fusion of hydrogen into helium:
+	a. Energy is absorbed
+	b. Energy is released
+	c. Mass is increased due to energy absorption
+	d. Mass is reduced due to the energy released
+
+Medium:
+1.  N/C =
+	a. V/A
+	b. J/V
+	c. V/m
+	d. A/m
+
+2. Three equal resistors connected in series with a source of emf together dissipate 10 W of power each. What will be the power dissipated if the same resistors are connected in parallel across the same source of emf?
+	a. 40 W
+	b. 90W
+	c. 100W
+	d. 120W
+
+3. Formation of the large molecule by joining small molecules is:
+	a. Fusion
+	b. Polymerization
+	c. Crystallization
+	d. Subtraction
+
+4.  Reverse process of photoelectric effect is:
+	a. Pair production
+	b. Compton effect
+	c. Annihilation of matter
+	d. X-rays production
+
+5. As the temperature of the black body is raised the wavelength corresponding to the maximum intensity:
+	a. Shifts towards longer wavelength
+	b. Shifts towards shorter wavelength
+	c. Remain the same
+	d. Shifts towards longer as well as shorter wavelengths
+
+6. Terminal velocity is:
+	a. Uniform
+	b. Maximum
+	c. Uniform and maximum
+	d. Neither uniform nor maximum
+
+7. In cricket when a bowler produce reverse swing the ball will move towards:
+	a.The shinning side of the ball
+	b. Rough side
+	c. The seam of the ball
+	d. Goes straight
+
+8. The direction of the vector product is given by:
+	a. Head to tail rule
+	b. Right-hand rule
+	c. Left-hand rule
+	d. Triangular rule
+
+9. Null vector is a vector which has:
+	a. Zero magnitude
+	b. No specified direction
+	c. Both A and B are correct
+	d. Both A and B are not correct
+
+10.  When a force is parallel to the direction of motion of the body, then work done on the body is:
+	a. Zero
+	b. Minimum
+	c. Infinity
+	d. Maximum
+
+11. Which of the following is not a conservative force:
+	a. Friction
+	b. Electric
+	c. Gravitational
+	d. Magnetic
+
+12. A body is moving with uniform velocity. Its:
+	a. Speed changes
+	b. Acceleration changes
+	c. The direction of motion changes
+	d. Displacement from origin changes
+
+13. The time rate of change of momentum is equal to:
+	a. Force
+	b. Impulse
+	c. Velocity
+	d. Both A and C
+
+14.  The charge on beta particle is:
+	a. 1
+	b. -1
+	c. 2
+	d. -2
+
+15. A body is falling freely under gravity. How much distance does it fall during an interval of time between 1st and 2nd seconds of its motion, taking g=10?
+	a. 14 m
+	b. 20 m
+	c. 5 m
+	d. 25 m
+
+Hard:
+1. What is the primary force responsible for holding the nucleus of an atom together?
+	a. Gravitational force
+	b. Electromagnetic force
+	c. Strong nuclear force
+	d. Weak nuclear force
+
+2. According to the theory of relativity, as an object approaches the speed of light, its mass...
+	a. Increases
+	b. Decreases
+	c. Remains constant
+	d. Becomes zero
+
+3. Which of the following phenomena is responsible for the Northern Lights (Aurora Borealis)?
+	a. Reflection
+	b. Refraction
+	c. Ionization of gases in the atmosphere
+	d. Absorption
+
+4.  In the context of particle physics, what is a quark?
+	a. Elementary particle
+	b. Composite particle
+	c. Antiparticle
+	d. Neutrino 
+
+5. According to the Heisenberg uncertainty principle, what two properties of a particle cannot be simultaneously known with arbitrary precision?
+	a. Position and velocity
+	b. Mass and energy
+	c. Spin and charge
+	d. Momentum and wavelength
+
+6. Which of the following is a fundamental property of a wave but not a particle?
+	a. Mass
+	b. Velocity
+	c. Frequency
+	d. Momentum 
+
+7. What is the principle that states that the total electric flux through a closed surface is equal to the net charge enclosed divided by the permittivity of free space?
+	a. Gauss's Law
+	b. Ampere's Law
+	c. Faraday's Law
+	d. Ohm's Law
+
+8. What is the term for the bending of a wave around an obstacle or through an opening?
+	a. Diffraction
+	b. Reflection
+	c. Refraction
+	d. Interference
+
+9. What type of lens is used to correct hypermetropia (farsightedness)?
+	a. Convex lens
+	b. Concave lens
+	c. Diverging lens
+	d. Plano-convex lens 
+
+10. Which law of motion states that for every action, there is an equal and opposite reaction?
+	a. Newton's First Law
+	b. Newton's Second Law
+	c. Newton's Third Law
+	d. Law of Inertia 
+
+11. What is the term for the minimum energy required to remove an electron from the surface of a material?
+	a. Work function
+	b. Ionization energy
+	c. Binding energy
+	d. Excitation energy 
+
+12. What is the critical angle in optics?
+	a. The angle at which total internal reflection occurs
+	b. The angle at which refraction occurs
+	c. The angle at which diffraction occurs
+	d. The angle at which polarization occurs
+
+13. According to the theory of electromagnetism, what is responsible for the magnetic field around a current-carrying wire?
+	a. Electric charge
+	b. Electric current
+	c. Magnetic charge
+	d. Voltage
+
+14. What is the phenomenon where a material becomes superconductive at temperatures close to absolute zero?
+	a. Ferromagnetism
+	b. Superfluidity
+	c. Superconductivity
+	d. Photoconductivity
+
+15. According to general relativity, what does the curvature of spacetime around a massive object cause?
+	a. Gravitational lensing
+	b. Time dilation
+	c. Quantum entanglement
+	d. Dark energy
+
+GENERAL KNOWLEDGE:-
+Easy:
+1.What is the capital of France?
+	a. Berlin
+	b. Madrid
+	c. Paris
+	d. Rome
+
+2.Which planet is known as the “Red Planet”?
+	a. Mars
+	b. Venus
+	c. Jupiter
+	d. Saturn
+
+3.Who wrote “Romeo and Juliet”?
+	a. Charles Dickens
+	b. William Shakespeare
+	c. Jane Austen
+	d. Mark Twain
+
+4.In what year did World War II end?
+	a. 1945
+	b. 1939
+	c. 1940
+	d. 1941
+
+5.What is the largest mammal in the world?
+	a. Elephant
+	b. Blue Whale
+	c. Giraffe
+	d. Hippopotamus
+
+6.Who painted the Mona Lisa?
+	a. Vincent van Gogh
+	b. Leonardo da Vinci
+	c. Pablo Picasso
+	d. Michelangelo
+
+7.What is the currency of Japan?
+	a. Yuan
+	b. Euro
+	c. Yen
+	d. Won
+
+8.Which element has the chemical symbol “O”?
+	a. Oxygen
+	b. Gold
+	c. Silver
+	d. Iron
+
+9.What is the capital of Australia?
+	a. Sydney
+	b. Melbourne
+	c. Canberra
+	d. Brisbane
+
+10.Who is known as the “Father of Computer Science”?
+	a. Alan Turing
+	b. Bill Gates
+	c. Steve Jobs
+	d. Mark Zuckerberg
+
+11.In what year did Christopher Columbus reach the Americas?
+	a. 1492
+	b. 1500
+	c. 1607
+	d. 1776
+
+12.What is the largest ocean on Earth?
+	a. Atlantic Ocean
+	b. Indian Ocean
+	c. Southern Ocean
+	d. Pacific Ocean
+
+13.What is the capital of Canada?
+	a. Ottawa
+	b. Toronto
+	c. Vancouver
+	d. Montreal
+
+14.Which country is known as the Land of the Rising Sun?
+	a. China
+	b. Japan
+	c. South Korea
+	d. Vietnam
+
+15.What is the chemical symbol for gold?
+	a. Gd
+	b. Au
+	c. Ag
+	d. Fe
+
+Medium:
+1.Who wrote "The Republic"?
+	a. Aristotle
+	b. Socrates
+	c. Plato
+	d. Homer
+
+2.In which year did the United Nations officially come into existence?
+	a. 1945
+	b. 1950
+	c. 1932
+	d. 1960
+
+3.Which country is the largest by land area?
+	a. United States
+	b. Russia
+	c. China
+	d. Brazil
+
+4.What is the capital of South Africa?
+	a. Pretoria
+	b. Cape Town
+	c. Johannesburg
+	d. Durban
+
+5.Which element is the most abundant in Earth’s crust?
+	a. Silicon
+	b. Oxygen
+	c. Aluminum
+	d. Iron
+
+6.In which year did the Berlin Wall fall?
+	a. 1989
+	b. 1975
+	c. 1963
+	d. 1992
+
+7.Which planet is known as the “Morning Star” or “Evening Star”?
+	a. Venus
+	b. Mars
+	c. Mercury
+	d. Jupiter
+
+8.Who is the current Secretary-General of the United Nations (as of 2023.?
+	a. Ban Ki-moon
+	b. Antonio Guterres
+	c. Kofi Annan
+	d. Boutros Boutros-Ghali
+
+9.What is the capital of Turkey?
+	a. Ankara
+	b. Istanbul
+	c. Athens
+	d. Budapest
+
+10.Who painted “The Persistence of Memory”?
+	a. Pablo Picasso
+	b. Vincent van Gogh
+	c. Salvador Dalí
+	d. Claude Monet
+
+11.What is the main function of the pancreas in the human body?
+	a. Digestion
+	b. Blood circulation
+	c. Respiration
+	d. Vision
+
+12.What is the capital of Argentina?
+	a. Buenos Aires
+	b. Rio de Janeiro
+	c. Santiago
+	d. Lima
+
+13.Who won the Nobel Prize in Physics in 2022?
+	a. Roger Penrose
+	b. Andrea Ghez
+	c. Reinhard Genzel
+	d. Emmanuelle Charpentier
+
+14.Which river is the longest in Europe?
+	a. Danube
+	b. Rhine
+	c. Volga
+	d. Thames
+
+15.In Greek mythology, who is the goddess of wisdom?
+	a. Hera
+	b. Athena
+	c. Aphrodite
+	d. Demeter
+
+Hard:
+1.
+Who wrote “Crime and Punishment”?
+	a. Fyodor Dostoevsky
+	b. Leo Tolstoy
+	c. Anton Chekhov
+	d. Nikolai Gogol
+
+2.Who was the first woman to win a Nobel Prize?
+	a. Marie Curie
+	b. Rosalind Franklin
+	c. Dorothy Crowfoot Hodgkin
+	d. Gerty Cori
+
+3.Which ancient wonder of the world was located in Babylon?
+	a. Hanging Gardens
+	b. Statue of Zeus at Olympia
+	c. Colossus of Rhodes
+	d. Temple of Artemis at Ephesus
+
+4.In what year did the Chernobyl nuclear disaster occur?
+	a. 1986
+	b. 1979
+	c. 1991
+	d. 2000
+
+5.Who was the first woman to fly solo across the Atlantic Ocean?
+	a. Amelia Earhart
+	b. Bessie Coleman
+	c. Harriet Quimby
+	d. Jacqueline Cochran
+
+6.What is the capital of Myanmar?
+	a. Naypyidaw
+	b. Yangon
+	c. Mandalay
+	d. Bagan
+
+7.What is the capital of Azerbaijan?
+	a. Baku
+	b. Tbilisi
+	c. Yerevan
+	d. Ashgabat
+
+8.Who wrote the political treatise “The Prince”?
+	a. Niccolò Machiavelli
+	b. Thomas Hobbes
+	c. John Locke
+	d. Jean-Jacques Rousseau
+
+9.Which chemical element has the highest melting point?
+	a. Tungsten
+	b. Platinum
+	c. Carbon
+	d. Titanium
+
+10.In which year did the French Revolution begin?
+	a. 1789
+	b. 1776
+	c. 1799
+	d. 1805
+
+11. Who was the ancient Egyptian queen known for her relationship with Julius Caesar and Mark Antony?
+	a. Nefertiti
+	b. Cleopatra
+	c. Hatshepsut
+	d. Ankhesenamun
+
+12. What is the world’s deepest ocean trench?
+	a. Puerto Rico Trench
+	a. Sunda Trench
+	c. Java Trench
+	d. Mariana Trench
+
+13. In which year did the Black Death begin to spread in Europe?
+	a. 1347
+	b. 1420
+	c. 1295
+	d. 1381
+
+14. What is the smallest country in the world by land area?
+	a. Monaco
+	b. Vatican City
+	c. Nauru
+	d. Tuvalu
+
+15. What is the capital of Uzbekistan?
+	a. Tashkent
+	b. Samarkand
+	c. Bukhara
+	d. Andijan
+
+PROGRAMMING FUNDAMENTALS:-
+Easy:
+1. What is the primary purpose of a loop in programming?
+	a. Input data
+	b. Repeated execution of code
+	c. Define variables
+	d. Output results
+
+2. What does the term "IDE" stand for in programming?
+	a. Integrated Development Environment
+	b. Intelligent Design Engine
+	c. Interactive Data Exchange
+	d. Interface Design Enhancement
+
+3. In programming, what is a variable?
+	a. A constant value
+	b. A container for storing data
+	c. A programming language
+	d. A function
+
+4. What is the purpose of conditional statements in programming?
+	a. Loop through code
+	b. Make decisions based on conditions
+	c. Define variables
+	d. Display output
+
+5. Which data type is used for storing whole numbers in most programming languages?
+	a. Float
+	b. Double
+	c. Integer
+	d. Char
+
+6. Which of the following is NOT a programming language?
+	A. Python
+	B. HTML
+	C. Java
+	D. Adobe Photoshop
+
+7. Which symbol is commonly used for comments in many C-programming language?
+	A. //
+	B. **
+	C. --
+	D. #
+
+8. What does the acronym "OOP" stand for in programming?
+	a. Object-Oriented Programming
+	b. Output Operation Process
+	c. Overarching Optimization Protocol
+	d. Object-Oriented Process
+
+9. What is the purpose of the "while" loop in programming?
+	a. Define variables
+	b. Repeated execution of code
+	c. Input data
+	d. Display output
+
+10. In programming, what does the term "syntax" refer to?
+	a. Variable names
+	b. Grammar rules of a language
+	c. Loop structure
+	d. Output formatting
+
+11. Which of the following is an example of a high-level programming language?
+	a. Assembly language
+	b. Machine language
+	c. Python
+	d. Binary code
+
+12. Which programming concept allows a function to call itself?
+	A. Loop
+	B. Recursion
+	C. Array
+	D. Variable
+
+13. Which of the following is a reserved word in many programming languages?
+	A. Variable
+	B. Loop
+	C. If
+	D. Banana
+
+14. What does the term "algorithm" mean in programming?
+	a. A type of loop
+	b. A step-by-step procedure for solving a problem
+	c. A programming language
+	d. Output formatting
+
+15. Which of the following is a common programming error?
+	a. Syntax error
+	b. Comment error
+	c. Loop error
+	d. Variable error
+
+Medium:
+1. Which data structure stores elements in a key-value pair format?
+	a. Array
+	b. Queue
+	c. Dictionary
+	d. Stack
+
+2. What is the result of 3 + 5 * 2?
+	A. 16
+	B. 13
+	C. 11
+	D. 26
+
+3. What does the term "API" stand for in programming?
+	a. Application Programming Interface
+	b. Automated Programming Interface
+	c. Advanced Programming Integration
+	d. Application Protocol Interface
+
+4. Which of the following is NOT a primitive data type in most programming languages?
+	A. Integer
+	B. Float
+	C. Array
+	D. Boolean
+
+5. What does the acronym "HTML" stand for?
+	A. Hyper Text Markup Language
+	B. High-Level Text Modeling Language
+	C. Hyperlink and Text Markup Language
+	D. Home Tool Markup Language
+
+6. What is the role of the "else" statement in an "if-else" construct?
+	A. To end the program
+	B. To execute the code block if the condition is true
+	C. To execute the code block if the condition is false
+	D. To repeat a loop
+
+7. What is the term for a named storage location in computer memory that contains a value?
+	A. Variable
+	B. Constant
+	C. Pointer
+	D. Operator
+
+8. Which of the following is an example of a relational operator?
+	A. +
+	B. *
+	C. ==
+	D. %
+
+9. What is the result of the expression 10 % 3?
+	A. 1
+	B. 2
+	C. 3
+	D. 0
+
+10. In programming, what is the role of an "array"?
+	A. To store a single value
+	B. To store multiple values of different data types
+	C. To store a boolean value
+	D. To perform mathematical operations
+
+11. Which of the following is used to represent an "or" condition in a logical expression?
+	A. ||
+	B. &&
+	C. !
+	D. ==
+
+12. What is the term for a variable that can hold different data types at different times during execution?
+	A. Constant
+	B. Dynamic variable
+	C. Static variable
+	D. Variant variable
+
+13. In object-oriented programming, what is encapsulation?
+	A. Hiding the implementation details of an object
+	B. Creating multiple instances of a class
+	C. Breaking a program into smaller functions
+	D. Performing arithmetic operations
+
+14. What is the purpose of the "malloc" function in C programming?
+	A. To print output
+	B. To allocate memory
+	C. To declare a variable
+	D. To perform mathematical operations
+
+15. What does the term "DRY" stand for in the context of functions or methods?
+	A. Do Repeat Yourself
+	B. Don't Repeat Yourself
+	C. Dry Run Yourself
+	D. Do Reinvent Yourself
+
+Hard:
+1. What is the time complexity of the quicksort algorithm in the worst case?
+	a. O(n)
+	b. O(n log n)
+	c. O(n^2)
+	d. O(log n)
+
+2. In object-oriented programming, what is the process by which one class can inherit the properties and behaviors of another class?
+	a. Polymorphism
+	b. Inheritance
+	c. Encapsulation
+	d. Abstraction
+
+3.  In the context of databases, what does SQL stand for?
+	a. Structured Query Language
+	b. Simple Question Language
+	c. System Query Language
+	d. Sequential Query Language
+
+4. Which data structure follows the Last In, First Out (LIFO) principle?
+	a. Queue
+	b. Stack
+	c. Linked List
+	d. Tree
+
+5.  Which of the following sorting algorithms has the best average-case time complexity?
+	a. Bubble Sort
+	b. Insertion Sort
+	c. QuickSort
+	d. Selection Sort
+
+6. Which of the following is not a valid way to declare a variable in JavaScript?
+	a. var x;
+	b. let x;
+	c. const x;
+	d. variable x;
+
+7. What does the acronym 'HTTP' stand for?
+	a. HyperText Transfer Protocol
+	b. High-Tech Transfer Protocol
+	c. HyperTransfer Text Protocol
+	d. HyperText Transmission Protocol
+
+8.  Which of the following is not a valid primitive data type in C++?
+	a) int
+	b) float
+	c) string
+	d) char
+
+9.  What is the purpose of the 'sizeof' operator in C?
+	a. It returns the size of a variable in bytes.
+	b. It returns the address of a variable.
+	c. It returns the value stored in a variable.
+	d. It returns the data type of a variable.
+
+10. In C, what is the correct syntax to declare a pointer to an integer?
+	a. int* x;
+	b. int x*;
+	c. pointer x int;
+	d. int x&;
+
+11. What is the output of the following code in C?
+#include <stdio.h>
+int main() {
+    int x = 5;
+    printf("%d", x++);
+    return 0;
+}
+	a. 6
+	b. 5
+	c. 4
+	d. 7
+
+12. What does the '->' operator do in C?
+	a) It is the multiplication operator.
+	b) It is used for bitwise operations.
+	c) It is the member access operator for pointers to structures.
+	d) It is used for logical negation.
+
+13. In C, what is the purpose of the 'fgets' function?
+	a. It is used to read characters from the standard input.
+	b. It is used to read a line from a file.
+	c. It is used to write characters to the standard output.
+	d. It is used to concatenate strings.
+
+14. Which header file should be included to use the 'sqrt' function in C?
+	a. #include <math.h>
+	b. #include <stdio.h>
+	c. #include <stdlib.h>
+	d. #include <string.h>
+
+15. What is the output of the following code in C?
+#include <stdio.h>
+int main() {
+    int x = 10;
+    int y = x << 1;
+    printf("%d", y);
+    return 0;
+}
+	a. 10
+	b. 20
+	c. 5
+	d. 40
